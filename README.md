@@ -31,3 +31,7 @@ Hire us to help you rapidly migrate to AWS using our proven strategy while advis
 Work directly with our team of DevOps experts via email, slack, and zoom.
 
 We deliver 10x the value for a fraction of the cost of a full-time engineer. Our track record is not even funny. If you want things done right and you need it done FAST, then we're your best bet.
+
+  [logo]: https://cloudposse.com/logo-300x69.svg
+  [readme_header_img]: https://cloudposse.com/readme/header/img
+  [readme_header_link]: https://cloudposse.com/readme/header/link?utm_source=github&utm_medium=readme&utm_campaign=cloudposse/.github&utm_content=readme_header_link
