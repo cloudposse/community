@@ -8,11 +8,12 @@ Welcome to the SweetOps community by Cloud Posse.
 <!-- markdownlint-restore -->
 
 
-* [DevOps Slack Community](https://cloudposse.com/slack/) [![Slack Community](https://slack.cloudposse.com/badge.svg)](https://slack.cloudposse.com)
-* [Weekly Office Hours](https://cloudposse.com/office-hours/)
-* [GitHub Discussions](https://github.com/cloudposse/community/discussions)
-* [Industry Newsletter](https://cloudposse.com/newsletter/)
-* [YouTube Channel](https://www.youtube.com/playlist?list=PLhRztDM6Uvne8MUuwXrv2truMl6gVZ0D8)
+* [DevOps Slack Community](https://cloudposse.com/slack/) - 6000+ members, very active & helpful place for developers
+* [Weekly Office Hours](https://cloudposse.com/office-hours/) - our live & recorded weekly "office hours" sessions with Cloud Posse
+* [GitHub Discussions](https://github.com/cloudposse/community/discussions) - Our newly launched GitHub Discussions, for an alternative to slack.
+* [Industry Newsletter](https://cloudposse.com/newsletter/) - Weekly newsletter with the coolest things we come across.
+* [YouTube Channel](https://www.youtube.com/playlist?list=PLhRztDM6Uvne8MUuwXrv2truMl6gVZ0D8) - Find all of our past "office hours" sessions here
+* [Podcast](https://podcast.cloudposse.com/) - Listen to our "office hours" as a Podcast
 
 
 ## About Cloud Posse
