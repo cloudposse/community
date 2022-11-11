@@ -1,15 +1,12 @@
 
-<!-- markdownlint-disable -->
-# .github [![Slack Community](https://slack.cloudposse.com/badge.svg)](https://slack.cloudposse.com) [![GitHub Discussions](https://img.shields.io/github/discussions/cloudposse/community)](https://github.com/cloudposse/community/discussions)
-<!-- markdownlint-restore -->
-
-[![README Header][readme_header_img]][readme_header_link]
-
 [![Cloud Posse][logo]](https://cpco.io/homepage)
 
 Welcome to the SweetOps community by Cloud Posse.
 
-# Community Resources
+<!-- markdownlint-disable -->
+# Community Resources [![Slack Community](https://slack.cloudposse.com/badge.svg)](https://slack.cloudposse.com) [![GitHub Discussions](https://img.shields.io/github/discussions/cloudposse/community)](https://github.com/cloudposse/community/discussions)
+<!-- markdownlint-restore -->
+
 
 * [DevOps Slack Community](https://cloudposse.com/slack/) [![Slack Community](https://slack.cloudposse.com/badge.svg)](https://slack.cloudposse.com)
 * [Weekly Office Hours](https://cloudposse.com/office-hours/)
@@ -19,6 +16,8 @@ Welcome to the SweetOps community by Cloud Posse.
 
 
 ## About Cloud Posse
+
+[![README Header][readme_header_img]][readme_header_link]
 
 Cloud Posse is a [DevOps Accelerator for Startups](https://cpco.io/homepage) (and Enterprises)
 
